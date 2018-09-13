@@ -1,7 +1,11 @@
 // Code your solution in this file!
 function distanceFromHqInBlocks (someValue) {
-  //returns the number of blocks given a value
-}
+ const a=43;
+ return a;
+
  
 function distanceFromHqInFeet (someValue) {
-  distanceFromHqInBlocks(someValue);
+  
+  distanceFromHqInBlocks(a);
+  
+}}
